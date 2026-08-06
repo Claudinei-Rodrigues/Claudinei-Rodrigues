@@ -10,3 +10,17 @@ Estou em Treinamento na Plataforma DEVECLUB.
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
+
+<picture>
+  <source
+    srcset="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <!-- light mode -->
+  <img src="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+<Br>
+<Br>
+
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=anuraghazra&repo=type-trident)](https://github.com/anuraghazra/type-trident)
